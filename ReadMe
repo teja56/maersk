@@ -1,0 +1,10 @@
+API-- SpaceX
+--------------
+Import to Postman and run the project
+
+
+
+Framework-- BlazeDemo
+-----------------
+Import the project to eclipse
+go to src/test/resouces -> runner folder-- run testng.xml file
